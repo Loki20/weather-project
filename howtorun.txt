@@ -1,0 +1,6 @@
+//Extract the project
+//Open it in your vs code
+//open terminal and paste "cd path/to/your/project/directory"
+//start it
+//and then "http://localhost:3000/weather/City_Name"
+//run this command on your browser to run the project
